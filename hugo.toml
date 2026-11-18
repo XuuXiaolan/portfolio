@@ -2,3 +2,7 @@ baseURL = 'http://localhost:1313/'
 locale = 'en-gb'
 title = 'Portfolio of Xu Xiaolan'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
