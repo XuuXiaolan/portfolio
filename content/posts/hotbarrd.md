@@ -1,6 +1,6 @@
 +++
 title = 'HotbarRD'
-draft = true
+draft = false
 +++
 
 HotbarRD is my second mod, found at [Here](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/)

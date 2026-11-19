@@ -1,6 +1,6 @@
 +++
 title = 'Past Mod Commissions'
-draft = true
+draft = false
 +++
 
 ### Eevee Frenzy

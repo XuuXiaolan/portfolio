@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://xuuxiaolan.github.io/portfolio/'
 locale = 'en-gb'
 title = 'Portfolio of Xu Xiaolan'
 theme = 'ananke'

@@ -1,6 +1,6 @@
 +++
 title = 'DiscordBot'
-draft = true
+draft = false
 +++
 
 
